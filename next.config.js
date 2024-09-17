@@ -9,8 +9,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'boxyhq.com',
+        protocol: 'http',
+        hostname: 'localhost',
       },
       {
         protocol: 'https',
